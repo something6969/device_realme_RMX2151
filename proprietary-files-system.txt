@@ -1,0 +1,2 @@
+-my_product/priv-app/HotwordEnrollmentOKGoogleCORTEXM4.apk
+bin/iwpriv
